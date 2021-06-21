@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\deliveryBoy\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\super\\.gradle\\caches\\transforms-2\\files-2.1\\e55d4f69b9515852fc5247c4a1c61256\\core-1.1.0\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\deliveryBoy\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\super\\.gradle\\caches\\transforms-2\\files-2.1\\e55d4f69b9515852fc5247c4a1c61256\\core-1.1.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\deliveryBoy\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\super\\.gradle\\caches\\transforms-2\\files-2.1\\e55d4f69b9515852fc5247c4a1c61256\\core-1.1.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\deliveryBoy\\build\\url_launcher\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\super\\.gradle\\caches\\transforms-2\\files-2.1\\e55d4f69b9515852fc5247c4a1c61256\\core-1.1.0\\res\\drawable\\notification_bg_low.xml"
+    }
+]

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.android.gms:play-services-places-placereport:16.0.0@aar">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../customerApp/android/.gradle/caches/transforms-2/files-2.1/7804547db60fdf6ae3c3a8846a31665f/play-services-places-placereport-16.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../customerApp/android/.gradle/caches/transforms-2/files-2.1/e0c716e5e3f46a0e1fe8c0ad979384bd/jetified-play-services-places-placereport-16.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../customerApp/android/.gradle/caches/transforms-2/files-2.1/e0c716e5e3f46a0e1fe8c0ad979384bd/jetified-play-services-places-placereport-16.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../customerApp/android/.gradle/caches/transforms-2/files-2.1/e0c716e5e3f46a0e1fe8c0ad979384bd/jetified-play-services-places-placereport-16.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\deliveryBoy\\build\\google_api_availability\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\super\\.gradle\\caches\\transforms-2\\files-2.1\\58d33199dbb2328dcb172d3163c5ddc2\\core-1.2.0\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\deliveryBoy\\build\\google_api_availability\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\super\\.gradle\\caches\\transforms-2\\files-2.1\\58d33199dbb2328dcb172d3163c5ddc2\\core-1.2.0\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\deliveryBoy\\build\\google_api_availability\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\super\\.gradle\\caches\\transforms-2\\files-2.1\\58d33199dbb2328dcb172d3163c5ddc2\\core-1.2.0\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\super\\AndroidStudioProjects\\deliveryBoy\\build\\google_api_availability\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\super\\.gradle\\caches\\transforms-2\\files-2.1\\58d33199dbb2328dcb172d3163c5ddc2\\core-1.2.0\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

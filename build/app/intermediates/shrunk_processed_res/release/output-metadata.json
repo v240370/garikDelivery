@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "SHRUNK_PROCESSED_RES",
+    "kind": "Directory"
+  },
+  "applicationId": "ru.driverHunter",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "x86_64"
+        }
+      ],
+      "versionCode": 4014,
+      "versionName": "2.0.0",
+      "outputFile": "resources-x86_64-release-stripped.ap_"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "arm64-v8a"
+        }
+      ],
+      "versionCode": 2014,
+      "versionName": "2.0.0",
+      "outputFile": "resources-arm64-v8a-release-stripped.ap_"
+    },
+    {
+      "type": "ONE_OF_MANY",
+      "filters": [
+        {
+          "filterType": "ABI",
+          "value": "armeabi-v7a"
+        }
+      ],
+      "versionCode": 1014,
+      "versionName": "2.0.0",
+      "outputFile": "resources-armeabi-v7a-release-stripped.ap_"
+    }
+  ]
+}
